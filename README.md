@@ -1,7 +1,7 @@
 # Job Posts
 
 A simple Flutter app to post and browse jobs.  
-Built with **Supabase + Flutter**, supporting **mobile (Android/iOS)** and **web (PWA)**.
+Built with **Supabase + Flutter**, supporting **mobile (Android)** and **web (PWA)**.
 
 ---
 
@@ -24,7 +24,6 @@ Built with **Supabase + Flutter**, supporting **mobile (Android/iOS)** and **web
 ## 📦 Deliverables
 - **GitHub Repo:** [link here]
 - **APK (Android):** [link here]
-- **TestFlight (iOS):** [link here]
 - **Web Build (PWA):** [link here]
 
 ---
